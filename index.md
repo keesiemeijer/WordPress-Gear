@@ -92,6 +92,7 @@ Base Tools
 -   [Vim WordPress snippets](https://github.com/sudar/vim-wordpress-snippets)
 -   [NetBeans WordPress plugin](https://github.com/junichi11/netbeans-wordpress-plugin/)
 -   [Alfred v2 codex function reference](http://www.alfredforum.com/topic/2153-search-the-wordpress-function-reference/)
+-   [Alfred v2 WordPress developer reference](http://www.alfredforum.com/topic/4321-wordpress-developer-reference/)
 -   [Sublime Codex](https://github.com/welovewordpress/SublimeWordPressCodex) - Search the WordPress Codex inside Sublime
 -	[PHPStorm integration](https://github.com/x-team/wp-phpstorm)
 -	[PHPStorm code style](https://github.com/Automattic/PhpStorm-Resources)
